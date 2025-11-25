@@ -4,7 +4,7 @@
 <div align="center">
 
   <!-- Profile Photo with Glow Animation -->
-  <img src="./Bilal.jpg" alt="Ahmed Bilal" width="220"
+  <img src="Bilal.jpg" alt="Ahmed Bilal" width="220"
        style="border-radius: 50%; object-fit: cover; border: 4px solid #f97316; box-shadow: 0 0 25px #f97316; animation: glow 2s infinite alternate;">
   
   <style>
